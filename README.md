@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ankit Kumar Jha</h1>
+<h1 align="center" id="animated-name">Hi 👋, I'm <span></span></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjha13&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjha13" /> </p>
 
@@ -47,11 +46,33 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha13&" alt="ankitjha13" /></p>
 
-<!-- Additional Animations -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Coding GIF" width="300" />
-</p>
+<!-- Additional CSS Animation -->
+<style>
+#animated-name span {
+  display: inline-block;
+  animation: animateName 1s steps(12) 1s forwards;
+}
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTH5UPQJGS2odW/giphy.gif" alt="React GIF" width="300" />
-</p>
+@keyframes animateName {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+</style>
+
+<script>
+// Change "Ankit Kumar Jha" to your name
+const name = "Ankit Kumar Jha";
+const nameElement = document.getElementById("animated-name").querySelector("span");
+let index = 0;
+const interval = setInterval(() => {
+  if (index === name.length) {
+    clearInterval(interval);
+    return;
+  }
+  nameElement.textContent += name[index++];
+}, 100);
+</script>
