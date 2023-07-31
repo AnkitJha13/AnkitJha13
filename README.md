@@ -1,4 +1,4 @@
-<h1 align="center" id="name-animation">Hi 👋, I'm Ankit Kumar Jha</h1>
+<h1 align="center">Hi 👋, I'm Ankit Kumar Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -30,17 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitjha13&show_icons=true&locale=en" alt="ankitjha13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha13&" alt="ankitjha13" /></p>
-
-<style>
-  @keyframes nameColorChange {
-    0% { color: #ff0000; }
-    25% { color: #00ff00; }
-    50% { color: #0000ff; }
-    75% { color: #ff00ff; }
-    100% { color: #ffff00; }
-  }
-
-  #name-animation {
-    animation: nameColorChange 5s infinite;
-  }
-</style>
