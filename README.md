@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **Android,Kotlin,C++,DSA**
+- 💬 Ask me about **C++ and DSA**
 
-- 📫 How to reach me **vivek.nsut@gmail.com**
+- 📫 How to reach me **ankitjha1403@gmail.com**
 
 - 📄 Know about my experiences []()
 
