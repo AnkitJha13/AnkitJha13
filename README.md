@@ -40,3 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitjha13&show_icons=true&locale=en" alt="ankitjha13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha13&" alt="ankitjha13" /></p>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnkitJha13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
