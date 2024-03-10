@@ -37,9 +37,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitjha13&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ankitjha13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitjha13&show_icons=true&locale=en" alt="ankitjha13" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitjha13&show_icons=true&theme=dracula&locale=en" alt="ankitjha13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha13&" alt="ankitjha13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha13&theme=dracula" alt="ankitjha13" /></p>
 
 
 # 📊 GitHub Stats:
