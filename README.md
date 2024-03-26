@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Real time working projects**
 
-- 👨‍💻 All of my projects are available at [[Resume]](https://athena-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [[Portfolio]](https://athena-portfolio.netlify.app/)
 
 - 💬 Ask me about **Student life and Engineering**
 
