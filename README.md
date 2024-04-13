@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ankitjha1403@gmail.com**
 
-- 📄 Know about my experiences [[Resume]](https://drive.google.com/file/d/1AGxE9vI4awCGdpIHkrYXCIlvUO1Ji1Aw/view)
+- 📄 Know about my experiences [[Resume]](https://drive.google.com/file/d/1-I1MAzKcUzD3shTXRlAQq2ZfEB0WlM99/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm an adventure traveller!**
 
