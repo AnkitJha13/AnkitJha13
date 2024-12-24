@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Ankit Kumar Jha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
 - 🔭 I’m currently working on **E-commerce web site**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Java Full Stack**
 
 - 👯 I’m looking to collaborate on **Real time working projects**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ankitjha1403@gmail.com**
 
-- 📄 Know about my experiences [[Resume]](https://drive.google.com/file/d/1rJjztePhE3PUtN6dQ78lRwMXtjdRXMsd/view?usp=drive_link)
+- 📄 Know about my experiences [[Resume]](https://drive.google.com/file/d/1xT3HXxQvJ1mcwfOpRZ1b7bsidSNFxp-w/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm an adventure traveller!**
 
